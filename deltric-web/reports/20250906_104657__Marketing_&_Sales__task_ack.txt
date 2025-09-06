@@ -1,0 +1,10 @@
+[Marketing & Sales] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Growth remit
+[Marketing & Sales] WILL PRODUCE:
+  - Lead list
+  - Campaign messages
+  - Call notes
+[Marketing & Sales] ASSUMED INPUTS:
+  - ICP
+  - offer
+  - content_snippets

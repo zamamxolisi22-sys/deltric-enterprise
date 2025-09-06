@@ -1,0 +1,11 @@
+[Proposal/Tender Writer] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Operations remit
+[Proposal/Tender Writer] WILL PRODUCE:
+  - Draft proposal
+  - Submission checklist
+  - Executive summary
+[Proposal/Tender Writer] ASSUMED INPUTS:
+  - RFP
+  - compliance_pack
+  - case_studies
+  - pricing_model

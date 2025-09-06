@@ -1,0 +1,10 @@
+[Compliance & Risk Lead] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Operations remit
+[Compliance & Risk Lead] WILL PRODUCE:
+  - Compliance checklist
+  - Risk register
+  - Mitigation plan
+[Compliance & Risk Lead] ASSUMED INPUTS:
+  - RFP docs
+  - client_profile
+  - jurisdiction_rules

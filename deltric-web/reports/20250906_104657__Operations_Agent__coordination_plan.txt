@@ -1,0 +1,16 @@
+[Operations Agent] RECEIVED TASK:
+  Breakdown plan for directive:
+- Intelligence: validate market & policy, produce Top-10 with deadlines.
+- Compliance: map B-BBEE & procurement gates, flag red flags.
+- Partnering: shortlist & validate local partners.
+- Proposal: create exec summary outline; collect requirements.
+- Marketing: prepare positioning/outreach for sector.
+
+[Operations Agent] WILL PRODUCE:
+  - Execution roadmap
+  - Work assignments
+  - Risks & mitigations
+[Operations Agent] ASSUMED INPUTS:
+  - strategic_directive
+  - capacity_map
+  - deadlines

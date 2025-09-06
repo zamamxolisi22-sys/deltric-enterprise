@@ -1,0 +1,10 @@
+[Intel Analyst] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Intelligence remit
+[Intel Analyst] WILL PRODUCE:
+  - Top-10 list
+  - Opportunity briefs
+  - Deadlines & links
+[Intel Analyst] ASSUMED INPUTS:
+  - keywords
+  - feeds
+  - sector_focus

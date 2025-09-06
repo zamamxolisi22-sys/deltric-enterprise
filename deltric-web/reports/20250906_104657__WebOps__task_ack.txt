@@ -1,0 +1,10 @@
+[WebOps] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Growth remit
+[WebOps] WILL PRODUCE:
+  - Deployed site
+  - Form test log
+  - Uptime report
+[WebOps] ASSUMED INPUTS:
+  - repo
+  - env_vars
+  - routes

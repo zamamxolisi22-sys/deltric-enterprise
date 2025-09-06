@@ -1,0 +1,10 @@
+[Legal/Contracts Liaison] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Operations remit
+[Legal/Contracts Liaison] WILL PRODUCE:
+  - Clause summary
+  - Redline suggestions
+  - Approval note
+[Legal/Contracts Liaison] ASSUMED INPUTS:
+  - counterparty_docs
+  - templates
+  - risk_policy

@@ -1,0 +1,10 @@
+[Account/Client Success] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Growth remit
+[Account/Client Success] WILL PRODUCE:
+  - Onboarding plan
+  - QBR deck
+  - Renewal proposal
+[Account/Client Success] ASSUMED INPUTS:
+  - contract
+  - delivery_artifacts
+  - usage_metrics

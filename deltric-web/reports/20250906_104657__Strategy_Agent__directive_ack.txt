@@ -1,0 +1,9 @@
+[Strategy Agent] RECEIVED TASK:
+  Directive: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.
+[Strategy Agent] WILL PRODUCE:
+  - Strategic directives
+  - Go/No-Go decisions
+[Strategy Agent] ASSUMED INPUTS:
+  - intel_briefs
+  - financial_models
+  - case_evidence

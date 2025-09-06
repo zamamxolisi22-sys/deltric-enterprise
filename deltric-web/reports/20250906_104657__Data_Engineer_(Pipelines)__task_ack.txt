@@ -1,0 +1,9 @@
+[Data Engineer (Pipelines)] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Operations remit
+[Data Engineer (Pipelines)] WILL PRODUCE:
+  - Clean CSV/JSON
+  - Health report
+[Data Engineer (Pipelines)] ASSUMED INPUTS:
+  - feeds
+  - parsers
+  - schema

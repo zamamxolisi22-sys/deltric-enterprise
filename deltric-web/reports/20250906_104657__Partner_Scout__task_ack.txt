@@ -1,0 +1,10 @@
+[Partner Scout] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Growth remit
+[Partner Scout] WILL PRODUCE:
+  - Shortlist
+  - Validation notes
+  - Contact pack
+[Partner Scout] ASSUMED INPUTS:
+  - capability_requirements
+  - sector
+  - region

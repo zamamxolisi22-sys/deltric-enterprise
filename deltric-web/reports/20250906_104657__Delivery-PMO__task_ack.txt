@@ -1,0 +1,10 @@
+[Delivery/PMO] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Operations remit
+[Delivery/PMO] WILL PRODUCE:
+  - Project plan
+  - RAID log
+  - Weekly report
+[Delivery/PMO] ASSUMED INPUTS:
+  - scope
+  - team
+  - milestones

@@ -1,0 +1,10 @@
+[Financial Modeler] RECEIVED TASK:
+  Execute: Pursue storage tenders in SA: shortlist top 10; prep compliance & partner map.  // per Intelligence remit
+[Financial Modeler] WILL PRODUCE:
+  - Pricing sheet
+  - Sensitivity table
+  - Assumptions log
+[Financial Modeler] ASSUMED INPUTS:
+  - assumptions
+  - rates
+  - volumes
